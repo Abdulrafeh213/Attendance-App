@@ -1,0 +1,31 @@
+name: attendanceapp
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.4.0-116.0.dev <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.6
+  firebase_core: ^2.31.1
+  firebase_auth: ^4.19.6
+  cloud_firestore: ^4.17.4
+  flutter_datetime_picker_plus: ^2.1.0
+  google_fonts: ^6.2.1
+  table_calendar: ^3.1.1
+
+  get: 4.6.6
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: 4.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+  assets:
+      - assets/
+
+

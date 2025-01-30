@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685702993749",
+    "project_id": "robxattendance",
+    "storage_bucket": "robxattendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685702993749:android:314dad4c08881bc96801dc",
+        "android_client_info": {
+          "package_name": "robx.attendanceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwJw5ElvYlsQEN74C8HG_5i706OMyrhyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
